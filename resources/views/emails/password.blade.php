@@ -1,0 +1,1 @@
+Click al siguiente Link para resetear password {{url('password/reset/'.$token)}}

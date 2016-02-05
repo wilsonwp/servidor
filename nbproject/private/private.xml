@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/xampp/htdocs/wp_project/public/js/partidos/script-leer.js</file>
+            <file>file:/C:/xampp/htdocs/wp_project/app/Comentario.php</file>
+            <file>file:/C:/xampp/htdocs/wp_project/app/Http/Controllers/ComentariosController.php</file>
+=======
+            <file>file:/C:/xampp/htdocs/hincha/frontend/index.html</file>
+            <file>file:/C:/xampp/htdocs/hincha/frontend/js/controllers/partidos.js</file>
+            <file>file:/C:/xampp/htdocs/hincha/frontend/tpl/page_signin.html</file>
+            <file>file:/C:/xampp/htdocs/hincha/frontend/js/config.router.js</file>
+            <file>file:/C:/xampp/htdocs/hincha/frontend/tpl/ui_toaster.html</file>
+            <file>file:/C:/xampp/htdocs/hincha/frontend/js/controllers/toaster.js</file>
+>>>>>>> eac52c91539a051320f384e175b88ae8e313830d
+        </group>
+    </open-files>
+</project-private>

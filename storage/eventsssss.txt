@@ -1,0 +1,1 @@
+{"id":59,"user_id":43,"partido_id":13,"contenido":"kmkmk","titulo":"kmkm","minuto":2,"equipo_calidad":1,"tipo_comentario_id":4,"created_at":"2016-01-22 16:33:21","updated_at":"2016-01-22 16:33:21"}

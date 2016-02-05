@@ -1,0 +1,38 @@
+{
+<<<<<<< HEAD
+  "private": true,
+  "devDependencies": {
+   "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "laravel-elixir": "^3.0.0",
+    "bootstrap-sass": "^3.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-sourcemap": "^1.3.1",
+    "gulp-filter": "^1.0.2",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-ng-annotate": "^1",
+    "gulp-notify": "^2.0.0",
+    "gulp-sourcemaps": "^1",
+    "gulp-uglify": "^1",
+    "jshint-stylish": "^2",
+    "laravel-elixir-livereload": "^1.1.1",
+    "main-bower-files": "^2.1.0",
+    "hoa/websocket": "~2.0",
+    "davibennun/laravel-push-notification": "dev-laravel5"
+  }
+}
+=======
+	"name": "front-end",
+	"version": "0.1.0",
+	"deDependencies":{
+		"grunt": "~0.4.5",
+		"grunt-contib-jshint": "~0.10.0",
+		"grunt-contrib-concat": "~0.4.0",
+		"grunt-contrib-uglify": "~0.5.0",
+		"grunt-shell": "~0.5.0"
+	}
+}
+>>>>>>> eac52c91539a051320f384e175b88ae8e313830d

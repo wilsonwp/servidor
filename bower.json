@@ -1,0 +1,20 @@
+{
+  "name": "wp_project",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Juanshot <garcia.solutions@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

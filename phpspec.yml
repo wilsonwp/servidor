@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: futboleros
+        psr4_prefix: futboleros
+        src_path: app
